@@ -1,2 +1,0 @@
-Estos ejercicios estan hechos con estructuras con estructuras secuencial, selectiva, simple, múltiple
-de desición anidada y la sentencia ir - a.
