@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "descuentoCompra",
+            "request": "launch",
+            "mainClass": "FlujosControl.EstructurasSelectivas.descuentoCompra",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "costoBoleto",
+            "request": "launch",
+            "mainClass": "FlujosControl.EstructurasSelectivas.costoBoleto",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "contadorNumeros",
+            "request": "launch",
+            "mainClass": "FlujosControl.EstructurasRepetitivas.contadorNumeros",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
             "name": "codigoSeleccion",
             "request": "launch",
             "mainClass": "Estructuras.codigoSeleccion",
