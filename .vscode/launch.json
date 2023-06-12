@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sentenciaIf",
+            "request": "launch",
+            "mainClass": "Estructuras.sentenciaIf",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "angulos",
+            "request": "launch",
+            "mainClass": "Estructuras.angulos",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
             "name": "moneda",
             "request": "launch",
             "mainClass": "moneda",

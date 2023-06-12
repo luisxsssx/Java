@@ -16,7 +16,6 @@ public class numeroFraccionario {
         } else {
             System.out.println("El número no tiene parte fraccionaria40");
         }
-
         
         sc.close();
     }    
