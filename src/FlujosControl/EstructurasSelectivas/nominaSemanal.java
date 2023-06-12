@@ -1,4 +1,4 @@
-package Estructuras;
+package FlujosControl.EstructurasSelectivas;
 
 import java.util.Scanner;
 

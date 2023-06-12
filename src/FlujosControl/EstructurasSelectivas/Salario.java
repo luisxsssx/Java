@@ -1,4 +1,4 @@
-package Estructuras;
+package FlujosControl.EstructurasSelectivas;
 
 // Salario neto de trabajador con estructura secuencial
 

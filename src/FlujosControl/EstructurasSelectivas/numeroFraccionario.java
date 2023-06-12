@@ -1,4 +1,4 @@
-package Estructuras;
+package FlujosControl.EstructurasSelectivas;
 
 // Ejemplo de estructura selectiva para detectar si un número tiene o no parte fraccionaria
 
@@ -14,7 +14,7 @@ public class numeroFraccionario {
         if (numero % 1 != 0) {
             System.out.println("El número tiene parte fraccionaria");
         } else {
-            System.out.println("El número no tiene parte fraccionaria40");
+            System.out.println("El número no tiene parte fraccionaria");
         }
         
         sc.close();

@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "codigoSeleccion",
+            "request": "launch",
+            "mainClass": "Estructuras.codigoSeleccion",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "calificacionLetra",
+            "request": "launch",
+            "mainClass": "Estructuras.calificacionLetra",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "numeroCentral",
+            "request": "launch",
+            "mainClass": "Estructuras.numeroCentral",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "numerosIguales",
+            "request": "launch",
+            "mainClass": "Estructuras.numerosIguales",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "raizCuadrada",
+            "request": "launch",
+            "mainClass": "Estructuras.raizCuadrada",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
             "name": "sentenciaIf",
             "request": "launch",
             "mainClass": "Estructuras.sentenciaIf",
