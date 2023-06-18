@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calificaciones",
+            "request": "launch",
+            "mainClass": "FlujosControl.Funciones.Calificaciones",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio",
+            "request": "launch",
+            "mainClass": "FlujosControl.Funciones.Ejercicio",
+            "projectName": "Java_e4c52fbf"
+        },
+        {
+            "type": "java",
             "name": "descuentoCompra",
             "request": "launch",
             "mainClass": "FlujosControl.EstructurasSelectivas.descuentoCompra",
