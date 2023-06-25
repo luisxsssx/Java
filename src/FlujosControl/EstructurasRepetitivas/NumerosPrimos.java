@@ -1,4 +1,4 @@
-package FlujosControl.EstructurasRepetitivas;
+/*package FlujosControl.EstructurasRepetitivas;
 
 
 
@@ -10,4 +10,4 @@ public class NumerosPrimos {
         while(i)
 
     }  
-}
+}*/
