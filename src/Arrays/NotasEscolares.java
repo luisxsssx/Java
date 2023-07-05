@@ -40,6 +40,4 @@ public class NotasEscolares {
         }
         return suma / numeroAlumnos;
     }
-
-
 }
