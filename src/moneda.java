@@ -5,7 +5,7 @@ public class moneda {
         
         Scanner scanner = new Scanner(System.in);
 
-        // Convertir pesos mexicanos a dolar estodounidense
+        // Convertir peso mexicano a dolar
 
         System.out.println("Convertir pesos mexicanos a dolar");
         System.out.println("Ingresa la cantidad de pesos: ");
